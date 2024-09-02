@@ -1,0 +1,8 @@
+@font-face {
+    font-family: echo;
+    src: url(./MiSans-Demibold.ttf);
+}
+
+body {
+    font-family: 'echo';
+}
