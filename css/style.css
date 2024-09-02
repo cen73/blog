@@ -7,6 +7,6 @@ body {
     font-family: 'echo';
 }
 
-.avatar-img img {
-    background-image: url('./微信图片_20240828154402.jpg') !important;
+.avatar-img {
+    background-image: url(./微信图片_20240828154402.jpg) !important;
 }
