@@ -10,13 +10,18 @@
 body {
     font-family: 'echo';
     font-weight: bold;
+    scroll-behavior: smooth !important;
 }
 
 #nav {
-    background-color: var(--blue);
+    background-color: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(10px);
     padding: 10px;
 }
 
+.recent-post-item {
+    transition: 0.3s;
+}
 
 .recent-post-item:hover {
     box-shadow: none !important;
