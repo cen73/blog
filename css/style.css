@@ -1,5 +1,5 @@
 :root {
-    --blue: #00BFFF
+    --blue: #00BFFF;
 }
 
 @font-face {
@@ -15,4 +15,8 @@ body {
 #nav {
     background-color: var(--blue);
     padding: 10px;
+}
+
+.recent-post-item {
+    box-shadow: 5px 5px 10px 0 lightgray !important;
 }
