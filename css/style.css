@@ -17,6 +17,7 @@ body {
     padding: 10px;
 }
 
-.recent-post-item {
-    box-shadow: 5px 5px 10px 0 lightgray !important;
+
+.recent-post-item:hover {
+    box-shadow: none !important;
 }
