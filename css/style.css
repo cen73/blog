@@ -15,16 +15,9 @@ body {
 
 }
 
-#nav {
-    background-color: rgba(255, 255, 255, 0.3);
+/* #nav {
+    background-color: rgba(255, 255, 255, 0.8);
     backdrop-filter: blur(10px);
     padding: 10px;
-}
 
-.recent-post-item {
-    transition: 0.3s;
-}
-
-.recent-post-item:hover {
-    box-shadow: none !important;
-}
+} */
